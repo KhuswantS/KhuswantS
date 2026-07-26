@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=22&pause=1500&color=16223D&center=true&vCenter=true&width=560&lines=Khuswant+Sharma;Independent+Investment+Research;PE+Fellow+%40+IVCA;CFA+Level+I+Candidate)](https://khuswantsharma.com)
+<a href="https://khuswantsharma.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Georgia&size=30&pause=1500&color=F7F3EA&center=true&vCenter=true&width=680&lines=Khuswant+Sharma;Independent+Investment+Research;PE+Fellow+%40+IVCA;CFA+Level+I+Candidate">
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=30&pause=1500&color=16223D&center=true&vCenter=true&width=680&lines=Khuswant+Sharma;Independent+Investment+Research;PE+Fellow+%40+IVCA;CFA+Level+I+Candidate" alt="Khuswant Sharma - Independent Investment Research - PE Fellow at IVCA - CFA Level I Candidate">
+</picture>
+</a>
 
 </div>
 
