@@ -41,10 +41,12 @@ Currently a PE Fellow at [IVCA](https://ivca.in), studying for CFA Level I (exam
 - Publishing original research, fully sourced, with a stated method for what I couldn't verify
 - CFA Level I, November 2026
 
+<br>
+
 <details>
 <summary><b>How I approach a report</b></summary>
 <br>
 
-Every report states its method and sources up front, and says plainly what I couldn't verify. I'd rather publish a smaller claim I can defend than a bigger one I can't. If you find an error, I want to know — <a href="mailto:sharmakhuswant16@gmail.com">tell me</a>.
+Every report states its method and sources up front, and says plainly what I couldn't verify. I'd rather publish a smaller claim I can defend than a bigger one I can't. If you find an error, I want to know - <a href="mailto:sharmakhuswant16@gmail.com">tell me</a>.
 
 </details>
