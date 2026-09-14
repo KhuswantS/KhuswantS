@@ -4,7 +4,7 @@
 
 <br>
 
-Currently a PE Fellow at IVCA, while preparing for the CFA Level I examination in November 2026.
+Currently a PE Fellow at IVCA(https://www.ivca.in), while preparing for the CFA Level I examination in November 2026.
 
 **Latest:** [Tax Without Recognition: India's Virtual Digital Asset Regime and the July 2026 Rupture](https://khuswantsharma.com/research/tax-without-recognition)
 
