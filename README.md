@@ -52,7 +52,7 @@ Currently a PE Fellow at [IVCA](https://www.ivca.in), while preparing for the CF
 <div align="center">
 
   <details>
-<summary><b>DISCLOSURE</b></summary>
+<summary>DISCLOSURE</summary>
 
   <sub>Spotted an error or have a suggestion for improvement? I would greatly appreciate you bringing it to my attention. Corrections, clarifications, and constructive feedback are always welcome. <a href="mailto:sharmakhuswant16@gmail.com">Please let me know</a>.</sub>
   
