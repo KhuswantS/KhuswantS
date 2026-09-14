@@ -43,8 +43,7 @@ Currently a PE Fellow at IVCA, while preparing for the CFA Level I examination i
 
 <br>
 
-<summary><b>How I approach a report:</b>
-Every report states its method and sources up front, and says plainly what I couldn't verify. I'd rather publish a smaller claim I can defend than a bigger one I can't.
+<b>How I approach a report:</b> Every report states its method and sources up front, and says plainly what I couldn't verify. I'd rather publish a smaller claim I can defend than a bigger one I can't.
 
 <br>
 
