@@ -50,3 +50,7 @@ Currently a PE Fellow at [IVCA](https://ivca.in), studying for CFA Level I (exam
 Every report states its method and sources up front, and says plainly what I couldn't verify. I'd rather publish a smaller claim I can defend than a bigger one I can't. If you find an error, I want to know - <a href="mailto:sharmakhuswant16@gmail.com">tell me</a>.
 
 </details>
+
+<br>
+
+<sub>Spot an error? I want to know — corrections welcome. Nothing on this page is investment advice.</sub>
