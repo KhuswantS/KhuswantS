@@ -53,4 +53,5 @@ Every report states its method and sources up front, and says plainly what I cou
 
 <br>
 
-<sub>Spot an error? I want to know — corrections welcome. Nothing on this page is investment advice.</sub>
+<sub>Spotted an error or have a suggestion for improvement? I would greatly appreciate you bringing it to my attention. Corrections, clarifications, and constructive feedback are always welcome.
+The information and views presented on this page are provided for informational and educational purposes only and should not be construed as investment advice, financial advice, or a recommendation to buy, sell, or hold any security or financial instrument. Readers are encouraged to conduct their own independent research and seek advice from a qualified financial professional before making any investment or financial decision.</sub>
