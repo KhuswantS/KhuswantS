@@ -45,14 +45,15 @@ Currently a PE Fellow at IVCA, while preparing for the CFA Level I examination i
 
 <b>How I approach a report:</b> 
 
-<br>
-
 - Every report states its method and sources up front, and says plainly what I couldn't verify. I'd rather publish a smaller claim I can defend than a bigger one I can't.
 
 <br>
 
-<sub>Spotted an error or have a suggestion for improvement? I would greatly appreciate you bringing it to my attention. Corrections, clarifications, and constructive feedback are always welcome. <a href="mailto:sharmakhuswant16@gmail.com">Please let me know</a>.
-
-<br>
-
-The information and views presented on this page are provided for informational and educational purposes only and should not be construed as investment advice, financial advice, or a recommendation to buy, sell, or hold any security or financial instrument. Readers are encouraged to conduct their own independent research and seek advice from a qualified financial professional before making any investment or financial decision.</sub>
+<div align="center">
+  <sub>Spotted an error or have a suggestion for improvement? I would greatly appreciate you bringing it to my attention. Corrections, clarifications, and constructive feedback are always welcome. <a href="mailto:sharmakhuswant16@gmail.com">Please let me know</a>.</sub>
+  
+  <br>
+  
+  <sub>The information and views presented on this page are provided for informational and educational purposes only and should not be construed as investment advice, financial advice, or a recommendation to buy, sell, or hold any security or financial instrument. Readers are encouraged to conduct their own independent research and seek advice from a qualified financial professional before making any investment or financial decision.</sub>
+  
+  </div>
