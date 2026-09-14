@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Khuswant Sharma — Independent Investment Research" width="100%" />
+  <img src="banner.png" alt="Khuswant Sharma — Independent Investment Research" width="100%" />
 </div>
 
 <br>
