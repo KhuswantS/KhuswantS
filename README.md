@@ -4,7 +4,7 @@
 
 <br>
 
-Currently a PE Fellow at [IVCA](https://ivca.in), studying for CFA Level I (exam November 2026).
+Currently a PE Fellow at IVCA, while preparing for the CFA Level I examination in November 2026.
 
 **Latest:** [Tax Without Recognition: India's Virtual Digital Asset Regime and the July 2026 Rupture](https://khuswantsharma.com/research/tax-without-recognition)
 
@@ -35,22 +35,23 @@ Currently a PE Fellow at [IVCA](https://ivca.in), studying for CFA Level I (exam
 
 <br>
 
-### Right now
+### Right now, I’m focused on:
 
-- Ecosystem mapping and stakeholder engagement at IVCA, day to day
-- Publishing original research, fully sourced, with a stated method for what I couldn't verify
-- CFA Level I, November 2026
+- Ecosystem mapping & stakeholder engagement at IVCA, day to day.
+- Publishing original research, fully sourced and transparent about methodology — including clearly stating what I couldn’t independently verify.
+- CFA Level I, with the exam scheduled for November 2026.
 
 <br>
 
-<details>
 <summary><b>How I approach a report</b></summary>
 <br>
 
 Every report states its method and sources up front, and says plainly what I couldn't verify. I'd rather publish a smaller claim I can defend than a bigger one I can't.
-</details>
 
 <br>
 
 <sub>Spotted an error or have a suggestion for improvement? I would greatly appreciate you bringing it to my attention. Corrections, clarifications, and constructive feedback are always welcome. <a href="mailto:sharmakhuswant16@gmail.com">Please let me know</a>.
+
+<br>
+
 The information and views presented on this page are provided for informational and educational purposes only and should not be construed as investment advice, financial advice, or a recommendation to buy, sell, or hold any security or financial instrument. Readers are encouraged to conduct their own independent research and seek advice from a qualified financial professional before making any investment or financial decision.</sub>
